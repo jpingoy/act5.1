@@ -7,6 +7,6 @@ void setup() {
 
 void loop() {
   // put your main code here, to run repeatedly:
-  Serial.println("Hola pingoy!");
+  Serial.println("Hola pingoy se cambio el mensaje!");
   delay(1000);
 }
